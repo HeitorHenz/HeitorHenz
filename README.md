@@ -1,6 +1,6 @@
-# Hello there! 👋
+# Hello there, I am Heitor! 👋
 
-My name is Heitor, I'm a web developer and physics student at UFRGS, Brazil. I love a good mystery/horror movie and I am bit too eclectic for my own good.
+Developer and economics student at UFRGS, Brazil. I love a good mystery/horror movie and I am bit too eclectic for my own good.
 
 # My languages 💻
 
