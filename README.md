@@ -1,7 +1,4 @@
-# Hello there, I am Heitor! 👋
+# Hello there 👋
 
-Developer and economics student at UFRGS, Brazil. I love a good mystery/horror movie and I am bit too eclectic for my own good.
-
-# My languages 💻
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heitorhenz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+I'm a full-time Python developer and an economics student in my spare time (at UFRGS, Brazil).
+I love a good mystery/horror movie, and I might be too eclectic for my own good.
